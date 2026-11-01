@@ -1,0 +1,73 @@
+pred,raw,latency_s,in_tokens,out_tokens,cost_usd,model
+0,Final answer: negative,5.815829699975438,289,40,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.847761700046249,331,25,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.64081020001322,317,45,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.805653600022197,468,23,0.0,openai/gpt-oss-20b
+1,"The review highlights several strengths: a compelling noir setting, clever manipulation of expectations, and early signs of Nolan’s signature style. It also notes budget‑related drawbacks like limited cinematography and some credibility issues, but frames them as understandable given the constraints. Overall, the tone is appreciative, calling the film “good” and “worth a look” for fans, rather than dismissive.  
+Final answer: positive",6.197397600044496,351,101,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.741763000027277,512,24,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.846283100079745,471,40,0.0,openai/gpt-oss-20b
+1,Final answer: positive,6.15490880003199,438,46,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.9500714999157935,427,60,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.844958100002259,316,19,0.0,openai/gpt-oss-20b
+0,"The review repeatedly calls the film “uninteresting,” “poorly done,” and “lame,” and it criticizes the plot, characters, and pacing. The reviewer explicitly states that the suspense never builds and that the ending is unsatisfying, concluding that the movie feels like a counterfeit. No positive remarks or praise are offered, indicating a clear negative stance.  
+
+Final answer: negative",5.842523600091226,408,115,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.742721899994649,332,34,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.802921599941328,317,48,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.845230099977925,508,25,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.9910725998925045,369,37,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.84543390001636,318,42,0.0,openai/gpt-oss-20b
+0,Final answer: negative,6.049690100015141,324,36,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.638085899990983,319,16,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.948956199921668,512,31,0.0,openai/gpt-oss-20b
+0,"The review is clearly negative, criticizing the film’s plot, performances, and the genre itself, and advising viewers to avoid it.  
+Final answer: negative",5.777266300050542,292,50,0.0,openai/gpt-oss-20b
+1,"The review highlights many positive aspects: it praises the inspirational story, the performances of Ed Harris and Cuba Gooding Jr., and the uplifting message about patience and inclusion. While it contains some mild criticism of the film’s formulaic nature, the overall tone is supportive and appreciative.  
+Final answer: positive",5.9175789000000805,474,99,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.843361800070852,392,58,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.946546999970451,361,17,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.94855109998025,509,23,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.846291900030337,449,16,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.538976000039838,407,23,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.814050400047563,432,39,0.0,openai/gpt-oss-20b
+0,"The reviewer expresses clear disappointment and criticism, noting the film’s poor quality, inexperienced cast, and misguided marketing. They dismiss it as unwatchable and even suggest it wouldn’t be suitable for a kids’ show. Overall, the tone is negative.
+
+Final answer: negative",5.98665799992159,439,79,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.844272900023498,455,39,0.0,openai/gpt-oss-20b
+1,Final answer: positive,6.1549015999771655,480,55,0.0,openai/gpt-oss-20b
+0,"The review is full of harsh criticism, describing the film as a flop, with a weak plot, poor acting, and a disjointed concept. The reviewer uses negative imagery and sarcasm to emphasize disappointment. Overall, the tone is strongly negative, with no redeeming praise.  
+Final answer: negative",5.849532099906355,497,76,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.944900400005281,240,25,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.440243900055066,454,23,0.0,openai/gpt-oss-20b
+0,"The review is clearly negative, pointing out routine plot, poor music, lack of star power, and a weak ending.  
+Final answer: negative",5.943319300073199,432,47,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.845170899992809,297,16,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.8430893999757245,349,16,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.9497358000371605,269,19,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.847273200051859,304,35,0.0,openai/gpt-oss-20b
+1,Final answer: positive,6.155056599993259,388,33,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.944450399954803,290,25,0.0,openai/gpt-oss-20b
+0,Final answer: negative,6.0506923999637365,485,43,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.946152699994855,429,62,0.0,openai/gpt-oss-20b
+0,"The review is overall negative, criticizing the film’s pretentiousness, lack of strong writing, and suggesting viewers avoid it.  
+Final answer: negative",5.844356700079516,296,66,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.538889000075869,373,23,0.0,openai/gpt-oss-20b
+1,"The reviewer highlights many strengths—acting, cinematography, music, and a powerful depiction of reality—while acknowledging the film’s disturbing nature. The overall tone is enthusiastic, recommending the movie to fans of good cinema.  
+Final answer: positive",6.052921599941328,288,77,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.642461000010371,251,42,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.952694800100289,486,16,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.731837300001644,246,25,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.856012300006114,404,37,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.8437641999917105,356,23,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.745220699929632,309,35,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.947965799947269,483,24,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.848590899957344,275,49,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.843158799922094,451,23,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.945777599932626,347,35,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.743277200032026,387,24,0.0,openai/gpt-oss-20b
+1,Final answer: positive,5.845431599998847,272,25,0.0,openai/gpt-oss-20b
+0,"The review is clearly negative, pointing out a thin plot, weak star power, and sarcastic remarks about the film’s quality.  
+Final answer: negative",5.8483492999803275,295,70,0.0,openai/gpt-oss-20b
+1,Final answer: positive,6.04818649997469,391,25,0.0,openai/gpt-oss-20b
+0,Final answer: negative,5.842039400013164,349,23,0.0,openai/gpt-oss-20b
